@@ -1,5 +1,6 @@
 # Network Packet Sniffer
 
+![Screenshot 2024-09-08 115051](https://github.com/user-attachments/assets/37893e83-b286-4d66-9962-67c0060b146b)
 A simple network packet sniffer built using Python, Tkinter, and Scapy. This application captures and displays network traffic, filtered by protocol (TCP, UDP, ICMP) in a user-friendly graphical interface.
 
 ## Features
